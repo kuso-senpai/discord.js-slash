@@ -1,0 +1,9 @@
+{
+  "name": "discord.js-slash",
+  "version": "1.3.0",
+  "author": "kuso-senpai",
+  "readme": "./README.md",
+  "dependencies": {
+    "discord.js": "^12.5.1"
+  }
+}
