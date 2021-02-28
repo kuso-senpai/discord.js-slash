@@ -16,4 +16,8 @@ client.on('ready', async() => {
     
 });
 
+<<<<<<< HEAD
 client.login(require("fs").readFileSync("token").toString())
+=======
+client.login('token')
+>>>>>>> 1702d5f662b99aa5d8c4e6c79aafc151dca15562
