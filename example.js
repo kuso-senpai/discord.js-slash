@@ -16,4 +16,4 @@ client.on('ready', async() => {
     
 });
 
-client.login('NzgyNjkyNTg4MDQ1NzI5ODAz.X8P5Rg.S6Z7JFfpbq8hDYFJUHQ0iyd-KYY')
+client.login('token')
