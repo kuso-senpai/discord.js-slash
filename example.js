@@ -12,7 +12,7 @@ client.on('ready', async() => {
         await command.reply(`${args ? args[0].value : "Hello World"} from #${messageData.channel.name} in ${messageData.guild.name}`)
     }
     exampleGuildCommand.register()
-    console.log("Wurde registiert")
+    console.log("command registered")
     
 });
 
