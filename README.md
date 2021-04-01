@@ -59,6 +59,6 @@ const mySlashCommand = new Discord.SlashCommand(client, 'name', 'Description', [
 
 ## Features which will be added soon
 
-- Reply visible only to user
+- Hidden replies
 
 - Edit, delete replies
