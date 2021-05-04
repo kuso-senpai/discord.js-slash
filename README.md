@@ -52,7 +52,7 @@ const mySlashCommand = new Discord.SlashCommand(client, 'name', 'Description', [
 
 ### Actions
 
-- Register:       To register a command, use ` await yourCommand.register`
+- Register:       To register a command, use ` await yourCommand.register()`
 
 - Delete:         To delete a command, use `await yourCommand.delete()`
 
